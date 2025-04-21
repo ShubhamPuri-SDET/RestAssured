@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.mylyn/contexts" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.debug.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.emf.common.ui" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.mylyn.context.core" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.mylyn.tasks.ui" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.oomph.setup.ui" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.pde.core/.p2" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.tm.terminal.view.ui" />
+      <excludeFolder url="file://$MODULE_DIR$/.metadata/.plugins/org.eclipse.userstorage.oauth" />
+    </content>
+  </component>
+</module>
